@@ -26,6 +26,6 @@ Este programa foi escrito na linguagem C. A seguir, estão algumas consideraçõ
 ## Exemplo de Uso 📝
 
   <p align="center">
-  <img src="![image](https://github.com/ryssaes/geradorSenha/assets/132323833/d283d30a-b550-46f1-8979-ddb4d861eb57)" alt="exemplo de uso">
+  <img src=" ![image](https://github.com/ryssaes/geradorSenha/assets/132323833/d283d30a-b550-46f1-8979-ddb4d861eb57) " alt="exemplo de uso">
 </p>
 
