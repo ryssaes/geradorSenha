@@ -25,7 +25,3 @@ Este programa foi escrito na linguagem C. A seguir, estão algumas consideraçõ
 
 ## Exemplo de Uso 📝
 
-<p align="center">
-  <img src="![image](https://github.com/ryssaes/geradorSenha/assets/132323833/4a080e46-e070-4c64-9acd-4ea15aec99a3)
-" alt="exemplo de uso">
-</p>
