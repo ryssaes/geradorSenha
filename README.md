@@ -25,17 +25,5 @@ Este programa foi escrito na linguagem C. A seguir, estão algumas consideraçõ
 
 ## Exemplo de Uso 📝
 
-  Bem-vindo ao Gerador de Senhas!
-
-  Digite o comprimento da senha: 12
-
-  Incluir letras maiúsculas? (1 - Sim / 0 - Não): 1
-
-  Incluir letras minúsculas? (1 - Sim / 0 - Não): 1
-  
-  Incluir números? (1 - Sim / 0 - Não): 1
-
-  Incluir caracteres especiais? (1 - Sim / 0 - Não): 0
-
-  Senha gerada: AbCdEfGh1234
+![image](https://github.com/ryssaes/geradorSenha/assets/132323833/e674606a-3e93-4b3f-8058-de9cc67ac2e5)
 
