@@ -27,16 +27,16 @@ Este programa foi escrito na linguagem C. A seguir, estão algumas consideraçõ
 
 <p align="center">
   Bem-vindo ao Gerador de Senhas!
-
+<p align="center">
   Digite o comprimento da senha: 12
-  
+<p align="center">  
   Incluir letras maiúsculas? (1 - Sim / 0 - Não): 1
-  
+<p align="center">  
   Incluir letras minúsculas? (1 - Sim / 0 - Não): 1
-  
+<p align="center">  
   Incluir números? (1 - Sim / 0 - Não): 1
-  
+<p align="center">  
   Incluir caracteres especiais? (1 - Sim / 0 - Não): 0
-
+<p align="center">
   Senha gerada: AbCdEfGh1234
 </p>
