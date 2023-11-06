@@ -25,3 +25,14 @@ Este programa foi escrito na linguagem C. A seguir, estão algumas consideraçõ
 
 ## Exemplo de Uso 📝
 
+<p align="center">
+  Bem-vindo ao Gerador de Senhas!
+
+Digite o comprimento da senha: 12
+Incluir letras maiúsculas? (1 - Sim / 0 - Não): 1
+Incluir letras minúsculas? (1 - Sim / 0 - Não): 1
+Incluir números? (1 - Sim / 0 - Não): 1
+Incluir caracteres especiais? (1 - Sim / 0 - Não): 0
+
+Senha gerada: AbCdEfGh1234
+</p>
