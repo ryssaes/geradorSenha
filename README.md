@@ -25,5 +25,6 @@ Este programa foi escrito na linguagem C. A seguir, estão algumas consideraçõ
 
 ## Exemplo de Uso 📝
 
+<p align="center">
 ![image](https://github.com/ryssaes/geradorSenha/assets/132323833/e674606a-3e93-4b3f-8058-de9cc67ac2e5)
-
+</p>
